@@ -1,0 +1,10 @@
+.quiz-item {
+    padding: 90px;
+    height: 20vh;
+}
+
+.quiz-question {
+    font-size: 1.4rem;
+    color: #293264;
+
+}
